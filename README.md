@@ -1,6 +1,6 @@
 # react-template
-A starter template React.JS project build using create-react-app that includes a static code analyzer,
- a code formatter and a CSS framework. This project uses `yarn` as a package manager.
+A starter template React.JS project built using `create-react-app` that includes a static code analyzer,
+ a code formatter, and a CSS framework. This project uses `yarn` as a package manager.
 
 ### Included libraries
 
@@ -27,7 +27,7 @@ Shows lint warnings and errors enforced by `eslint`
 
 #### `yarn lint:fix`
 
-Auto fixes every rule violation `eslint` is capable of fixing and print out any warnings or errors it
+Auto fixes every rule violation `eslint` is capable of repairing and prints out any warnings or errors it
  was incapable of fixing
 
 #### `yarn format`
